@@ -44,85 +44,27 @@ I believe the future belongs to people who can **blend code, design and imaginat
 
 ## 📜 Certifications
 
-<table>
-<tr>
-<td align="center">
-<img src="Certifications/1game.png" width="220"><br>
-Game Development
-</td>
+<p align="center">
 
-<td align="center">
-<img src="Certifications/back-end.png" width="220"><br>
-Back-End Development
-</td>
+<img src="Certifications/1game.png" width="120"/>
+<img src="Certifications/back-end.png" width="120"/>
+<img src="Certifications/front-end.png" width="120"/>
+<img src="Certifications/git-github.png" width="120"/>
 
-<td align="center">
-<img src="Certifications/front-end.png" width="220"><br>
-Front-End Development
-</td>
+<img src="Certifications/Java.png" width="120"/>
+<img src="Certifications/JavaScript.png" width="120"/>
+<img src="Certifications/python.png" width="120"/>
+<img src="Certifications/Springboot.png" width="120"/>
 
-<td align="center">
-<img src="Certifications/git-github.png" width="220"><br>
-Git & GitHub
-</td>
-</tr>
+<img src="Certifications/logicadeprog.png" width="120"/>
+<img src="Certifications/inovacao.png" width="120"/>
+<img src="Certifications/eraIA.png" width="120"/>
+<img src="Certifications/deanlist.png" width="120"/>
 
-<tr>
-<td align="center">
-<img src="Certifications/Java.png" width="220"><br>
-Java
-</td>
+<img src="Certifications/carreiraIA.png" width="120"/>
+<img src="Certifications/fiap.jpg" width="120"/>
 
-<td align="center">
-<img src="Certifications/JavaScript.png" width="220"><br>
-JavaScript
-</td>
-
-<td align="center">
-<img src="Certifications/python.png" width="220"><br>
-Python
-</td>
-
-<td align="center">
-<img src="Certifications/Springboot.png" width="220"><br>
-Spring Boot
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="Certifications/logicodeprog.png" width="220"><br>
-Logic & Programming
-</td>
-
-<td align="center">
-<img src="Certifications/inovacao.png" width="220"><br>
-Innovation
-</td>
-
-<td align="center">
-<img src="Certifications/eraIA.png" width="220"><br>
-AI Era
-</td>
-
-<td align="center">
-<img src="Certifications/deanlist.png" width="220"><br>
-Dean's List
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="Certifications/carreiraIA.png" width="220"><br>
-AI Career
-</td>
-
-<td align="center">
-<img src="Certifications/fiap.jpg" width="220"><br>
-FIAP Certificate
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
