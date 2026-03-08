@@ -15,20 +15,17 @@ building projects that combine **code, aesthetics and user experience**.
 I believe the future belongs to people who can **blend code, design and imagination**.
 
 ---
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![AWS](https://skillicons.dev/icons?i=aws)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,postgres,mysql,figma" />
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=L4r1-aaa&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=L4r1-aaa&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4r1-aaa&layout=compact&theme=dark)
 
