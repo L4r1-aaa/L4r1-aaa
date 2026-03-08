@@ -44,11 +44,85 @@ I believe the future belongs to people who can **blend code, design and imaginat
 
 ## 📜 Certifications
 
-<p>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-UX%20Design-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-Design-EF4E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="Certifications/1game.png" width="220"><br>
+Game Development
+</td>
+
+<td align="center">
+<img src="Certifications/back-end.png" width="220"><br>
+Back-End Development
+</td>
+
+<td align="center">
+<img src="Certifications/front-end.png" width="220"><br>
+Front-End Development
+</td>
+
+<td align="center">
+<img src="Certifications/git-github.png" width="220"><br>
+Git & GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Certifications/Java.png" width="220"><br>
+Java
+</td>
+
+<td align="center">
+<img src="Certifications/JavaScript.png" width="220"><br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="Certifications/python.png" width="220"><br>
+Python
+</td>
+
+<td align="center">
+<img src="Certifications/Springboot.png" width="220"><br>
+Spring Boot
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Certifications/logicodeprog.png" width="220"><br>
+Logic & Programming
+</td>
+
+<td align="center">
+<img src="Certifications/inovacao.png" width="220"><br>
+Innovation
+</td>
+
+<td align="center">
+<img src="Certifications/eraIA.png" width="220"><br>
+AI Era
+</td>
+
+<td align="center">
+<img src="Certifications/deanlist.png" width="220"><br>
+Dean's List
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="Certifications/carreiraIA.png" width="220"><br>
+AI Career
+</td>
+
+<td align="center">
+<img src="Certifications/fiap.jpg" width="220"><br>
+FIAP Certificate
+</td>
+</tr>
+</table>
 
 ---
 
